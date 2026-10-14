@@ -24,13 +24,13 @@ Each archetype has three files:
 ### Examples
 
 - [Security engineer](examples/security-engineer/SOUL.md): [REMIT](examples/security-engineer/REMIT.md), [MEMORY](examples/security-engineer/MEMORY.md).
-- [Sandy Metz inspired OO consultant](examples/oo-consultant/SOUL.md): [REMIT](examples/oo-consultant/REMIT.md), [MEMORY](examples/oo-consultant/MEMORY.md).
+- [Sandi Metz inspired OO consultant](examples/oo-consultant/SOUL.md): [REMIT](examples/oo-consultant/REMIT.md), [MEMORY](examples/oo-consultant/MEMORY.md).
 
 The distinction should be concrete. A security engineer habitually looks for seams, attack surfaces and ways to break assumptions: that perspective belongs in SOUL. Hardening the system is the job in REMIT. Immediate investigation context belongs in MEMORY.
 
-An object-oriented design consultant inspired by Sandy Metz brings opinionated object-oriented engineering values: that perspective belongs in SOUL. Consulting on and improving the system's object-oriented design is the job in REMIT. Circumstances may call for practical compromises; the perspective need not prescribe the same answer every time.
+An object-oriented design consultant inspired by Sandi Metz brings opinionated object-oriented engineering values: that perspective belongs in SOUL. Consulting on and improving the system's object-oriented design is the job in REMIT. Circumstances may call for practical compromises; the perspective need not prescribe the same answer every time.
 
-These are inspired archetypes, not statements authored by Sandy Metz or quotations attributed to her. The example MEMORY files are blank; no actual learning or private context is invented.
+These are inspired archetypes, not statements authored by Sandi Metz or quotations attributed to her. The example MEMORY files are blank; no actual learning or private context is invented.
 
 
 💐💐💐💐 How do I use ReMeSo?
@@ -60,7 +60,7 @@ The README-level HOW is settled. Further lifecycle questions belong in ReMeSo.md
 
 ### A note on the name
 
-As the old joke goes, the two hardest problems in computer science are cache invalidation, naming things, and off-by-one errors. We evolved our way to "Remit", "Memory", and "Soul" as the core componentes, but couldn't think of a good name. Good thing I recently showing the kids *The Sound of Music*, so Julie Andrews’ re–me–so was top-of-mind—and, happily, a semantically empty handle matching REMIT, MEMORY, SOUL.
+As the old joke goes, the two hardest problems in computer science are cache invalidation, naming things, and off-by-one errors. We evolved our way to "Remit", "Memory", and "Soul" as the core components, but couldn't think of a good name. Good thing I was recently showing the kids *The Sound of Music*, so Julie Andrews’ re–me–so was top-of-mind—and, happily, a semantically empty handle matching REMIT, MEMORY, SOUL.
 
 (Feel free to sing it.)
 
